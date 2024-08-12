@@ -1,0 +1,16 @@
+[25-May-24 18:58:30 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[25-May-24 18:58:32 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[25-May-24 18:58:38 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[25-May-24 18:58:50 - INFO] - Fsecmusic.core.bot - Music Bot Started as ◬𝙁𝙎𝙀𝘾_𝙈𝙐𝙎𝙄𝘾◬ 
+[25-May-24 19:27:18 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[25-May-24 19:27:18 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[25-May-24 19:27:19 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[25-May-24 19:27:21 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[25-May-24 19:27:29 - INFO] - Fsecmusic.core.bot - Music Bot Started as ◬𝙁𝙎𝙀𝘾_𝙈𝙐𝙎𝙄𝘾◬ 
