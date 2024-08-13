@@ -22,4 +22,4 @@ A Powerful Music Bot For Telegram Users
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/UNEMPLOID/Fsec-Music"> <img src="https://graph.org/file/cb9394eec3d0ebce858f9.jpg" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codex-ML/CHOCO-MUSIC-API-BOT"> <img src="https://graph.org/file/cb9394eec3d0ebce858f9.jpg" width="620" height="198.45"/></a></p>
